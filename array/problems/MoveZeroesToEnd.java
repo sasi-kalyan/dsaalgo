@@ -5,7 +5,7 @@ public class MoveZeroesToEnd {
     /*
         * PS: Move all zeroes to the end while maintaining the relative order of non-zero elements.
         * Time Complexity: O(n)
-        * Space Complexity: O(1)    
+        * Space Complexity: O(1)
      */
     public static int[] moveZeroesToEnd(int[] arr, int n){
 
